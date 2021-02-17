@@ -1,8 +1,9 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/psi-4ward/asksinpp-web)
-
 ---
 home: true
 ---
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/psi-4ward/asksinpp-web)
+
 
 # asksinpp-web
 Eine Übersicht rund um die Arduino [AskSinPP Lib](https://github.com/pa-pa/AskSinPP) sowie deren Verwendung und Projekte.
